@@ -1,0 +1,19 @@
+lockfileVersion: 5.4
+
+specifiers:
+  add: ^2.0.6
+  es-module-lexer: ^0.10.5
+
+dependencies:
+  add: 2.0.6
+  es-module-lexer: 0.10.5
+
+packages:
+
+  /add/2.0.6:
+    resolution: {integrity: sha512-j5QzrmsokwWWp6kUcJQySpbG+xfOBqqKnup3OIk1pz+kB/80SLorZ9V8zHFLO92Lcd+hbvq8bT+zOGoPkmBV0Q==}
+    dev: false
+
+  /es-module-lexer/0.10.5:
+    resolution: {integrity: sha512-+7IwY/kiGAacQfY+YBhKMvEmyAJnw5grTUgjG85Pe7vcUI/6b7pZjZG8nQ7+48YhzEAEqrEgD2dCz/JIK+AYvw==}
+    dev: false

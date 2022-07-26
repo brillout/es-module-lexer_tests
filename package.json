@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "es-module-lexer": "^0.10.5"
+  }
+}
